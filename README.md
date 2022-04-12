@@ -2,7 +2,7 @@
 
 I'm a Junior Web Developer from France 🇫🇷 
 
-- 🚀  I'm currently learning Symfony and API Plateform
+I'm currently learning Symfony and API Plateform 🚀  
 
 ### Links
 *  [Portfolio](https://liam-boudraa.fr) 
