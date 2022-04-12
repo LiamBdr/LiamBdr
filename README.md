@@ -1,9 +1,3 @@
-<p align="center">
-  <img style="width:60%; text-align:center" src="https://i.imgur.com/SMX770R.jpg" alt="GitHub README header image">
-</p>
-
-## <p style="font-weight:900" align="center"> Bienvenue sur mon Github 👋 </p>
-
 ### Mon profil
 
 J’ai 19 ans et je suis étudiant à l’IUT de Troyes. 🇫🇷<br>
