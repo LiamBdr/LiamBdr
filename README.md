@@ -10,7 +10,6 @@ Passionné par l’univers du web, je suis en 2ème année de DUT “Métiers du
    <img style="height: 35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"> 
    <img style="height: 35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
    <img style="height: 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
-   <img style="height: 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png">
    <img style="height: 25px" src="https://upload.wikimedia.org/wikipedia/fr/b/b3/Jquery-logo.png">
    
 - 📡 Backend : 
