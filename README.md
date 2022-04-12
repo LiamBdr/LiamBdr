@@ -2,7 +2,7 @@
 
 J’ai 19 ans et je suis étudiant à l’IUT de Troyes. 🇫🇷<br>
 <br>
-Passionné par l’univers du web, je suis en 2ème année de DUT “Métiers du multimédia et de l’internet”, je souhaite à terme devenir développeur fullstack. 🧑‍💻 
+Passionné par l’univers du web, je suis en 2ème année de DUT “Métiers du multimédia et de l’internet”, je souhaite à terme devenir développeur backend. 🧑‍💻 
 
 ### Mes compétences
 
